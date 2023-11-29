@@ -8,14 +8,8 @@
         </div>
         <div class="ck_footer_right_section">
             <ul>
-                <li><a href="#"><i class="fab fa-facebook-f"></i></a>
-                </li>
-                <li><a href="#"><i class="fab fa-twitter"></i></a>
-                </li>
-                <li><a href="#"><i class="fab fa-pinterest-p"></i></a>
-                </li>
-                <li><a href="#"><i class="fab fa-google-plus-g"></i></a>
-                </li>
+                <li><a target="_blank" href="https://www.facebook.com/profile.php?id=61552156718516&mibextid=2JQ9oc"><i class="fab fa-facebook-f"></i></a></li>
+                <li><a target="_blank" href="https://instagram.com/azucarcafeychurros?igshid=NGVhN2U2NjQ0Yg=="><i class="fab fa-instagram"></i></a></li>
             </ul>
         </div>
     </div>
