@@ -3,7 +3,8 @@
 <div class="ck_footer_main_wrapper float_left">
     <div class="container-fluid">
         <div class="ck_footer_left_section">
-            <p>&copy;Copyright Cool Town 2022-23</p>
+            <p>&copy;Azúcar - Café & Churros</p>
+            <span>Diseñado por <a target="_blank" style="color: #fff;" href="https://www.bananagroup.mx/">Banana Group Marketing</a></span>
         </div>
         <div class="ck_footer_right_section">
             <ul>
