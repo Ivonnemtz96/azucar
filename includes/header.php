@@ -1,5 +1,3 @@
-<!-- ck fullpage wrapper Start -->
-<!-- ck background img wrapper Start -->
 <div class="wrapper-background"></div>
 <!-- ck background img wrapper End -->
 <!-- ck navigation wrapper Start -->
