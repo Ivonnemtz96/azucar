@@ -1,6 +1,6 @@
 <head>
 	<meta charset="utf-8" />
-	<title>Cool Town</title>
+	<title>Azúcar - Café y Churros</title>
 	<meta content="width=device-width, initial-scale=1.0" name="viewport" />
 	<meta name="description" content="Cool Town" />
 	<meta name="keywords" content="Cool Town" />
