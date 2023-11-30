@@ -12,9 +12,9 @@
                             la elegancia se mezcla con la dulzura.
                         </p>
                         <ul class="animate" data-animate="fadeInUp">
-                            <li><a href="#">Ver galería</a>
+                            <li><a href="#slide04">Ver galería</a>
                             </li>
-                            <li><a href="#">Ver menú</a>
+                            <li><a href="#slide07">Ver menú</a>
                             </li>
                         </ul>
                     </div>
@@ -97,7 +97,7 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="ck_offer_btn float_left"> <a href="#">Ver menú</a>
+                        <div class="ck_offer_btn float_left"> <a href="#slide07">Ver menú</a>
                         </div>
                     </div>
                 </div>
@@ -163,7 +163,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="ck_offer_btn ck_gallery_btn float_left"> <a href="#">Ver ubicación</a>
+                        <div class="ck_offer_btn ck_gallery_btn float_left"> <a target="_blank" href="https://maps.app.goo.gl/BJgb68Kts1hdHZu57">Ver ubicación</a>
                         </div>
                     </div>
                 </div>
@@ -225,7 +225,7 @@
                         </div>
                         <div class="col-md-12">
                             <div class="ck_offer_btn ck_service_btn animate float_left" data-animate="fadeInUp"> <a
-                                    href="#">Ver menú</a>
+                                    href="#slide07">Ver menú</a>
                             </div>
                         </div>
                     </div>

@@ -9,7 +9,7 @@
     <div class="container-fluid">
         <div class="ck_logo_wrapper">
             <a href="#">
-                <img src="images/logo.png" alt="logo">
+                <img src="images/logo4.png" alt="logo">
             </a>
         </div>
         <div class="ck_navigation_right_wrapper">
@@ -38,10 +38,10 @@
                                 <li><a class="global-menu__item global-menu__item--demo-3"
                                         href="#">Inicio</a>
                                 </li>
-                                <li><a class="global-menu__item global-menu__item--demo-3" href="#about">Nosotros</a></li>
-                                <li><a class="global-menu__item global-menu__item--demo-3" href="#gallery">Galería</a></li>
-                                <li><a class="global-menu__item global-menu__item--demo-3" href="#menu">Menú</a></li>
-                                <li><a class="global-menu__item global-menu__item--demo-3" href="#contact">Contacto</a></li>
+                                <li><a class="global-menu__item global-menu__item--demo-3" href="#slide02">Nosotros</a></li>
+                                <li><a class="global-menu__item global-menu__item--demo-3" href="#slide04">Galería</a></li>
+                                <li><a class="global-menu__item global-menu__item--demo-3" href="#slide07">Menú</a></li>
+                                <li><a class="global-menu__item global-menu__item--demo-3" href="#slide08">Contacto</a></li>
                             </ul>
                         </div>
                     </div>
