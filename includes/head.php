@@ -1,10 +1,7 @@
 <head>
 	<meta charset="utf-8" />
-	<title>Azúcar - Café y Churros</title>
+	<title>Azúcar - Café & Churros</title>
 	<meta content="width=device-width, initial-scale=1.0" name="viewport" />
-	<meta name="description" content="Cool Town" />
-	<meta name="keywords" content="Cool Town" />
-	<meta name="author" content="" />
 	<meta name="MobileOptimized" content="320" />
 	<!--Template style -->
 	<link rel="stylesheet" type="text/css" href="css/animate.css" />

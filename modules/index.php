@@ -6,9 +6,9 @@
                     <div class="ck_slider_top_content float_left">
                         <h4><img src="images/awe.png" alt="Azucar- café y churros" class="animate"
                                 data-animate="fadeInUp"></h4>
-                        <h3 class="animate" data-animate="fadeInUp">Azúcar - Café y Churros</h3>
+                        <h3 class="animate" data-animate="fadeInUp">Azúcar - Café & Churros</h3>
                         <p class="animate" data-animate="fadeInUp">
-                            Donde la perfección se sirve en cada taza de café y en cada churro crujiente. Un lugar donde
+                            Donde la perfección se sirve en cada taza de café & en cada churro crujiente. Un lugar donde
                             la elegancia se mezcla con la dulzura.
                         </p>
                         <ul class="animate" data-animate="fadeInUp">
@@ -32,15 +32,15 @@
             <div class="row">
                 <div
                     class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 align-self-center d-none d-sm-none d-md-none d-lg-block d-xl-block">
-                    <div class="ck_about_img_wrapper float_left">
-                        <img src="images/ice2.png" alt="img" class="animate" data-animate="fadeInUp">
+                    <div class="ck_about_img_wrapper float_left" style="text-align: center;">
+                        <img src="images/04.jpg" style="width: 14rem;" alt="img" class="animate" data-animate="fadeInUp">
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 align-self-center">
                     <div class="ck_about_img_cont_wrapper float_left animate" data-animate="fadeInUp">
                         <div class="ck_heading_wrapper">
                             <h4>Sobre Nosotros</h4>
-                            <h2 style="color: #fff;">Azúcar - Café y Churros</h2>
+                            <h2 style="color: #fff;">Azúcar - Café & Churros</h2>
                         </div>
                         <p>
 
@@ -53,15 +53,15 @@
                             <br>
                             Nos esforzamos por crear un espacio donde la elegancia se respira en cada rincón. Desde la
                             acogedora atmósfera de nuestro establecimiento hasta el cuidado puesto en la presentación de
-                            cada platillo, Azúcar: Café y Churros se erige como un lugar donde los detalles marcan la
+                            cada platillo, Azúcar: Café & Churros se erige como un lugar donde los detalles marcan la
                             diferencia.
                         </p>
                     </div>
                 </div>
                 <div
                     class="col-md-12 col-sm-12 col-12 align-self-center d-block d-sm-block d-md-block d-lg-none d-xl-none">
-                    <div class="ck_about_img_wrapper float_left">
-                        <img src="images/ice2.png" alt="img" class="animate" data-animate="fadeInUp">
+                    <div class="ck_about_img_wrapper float_left" style="text-align: center;">
+                        <img src="images/04.jpg" style="width: 14rem;" alt="img" class="animate" data-animate="fadeInUp">
                     </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@
                     <div class="ck_offer_img_cont_wrapper float_left animate" data-animate="fadeInUp">
                         <div class="ck_heading_wrapper float_left">
                             <h4>Nuestros especiales</h4>
-                            <h3>Explora el placer en cada sorbo y bocado</h3>
+                            <h3>Explora nuevos sabores</h3>
                         </div>
                         <div class="ck_offer_mian_box_wrapper ck_offer_mian_box_wrapper_first float_left">
                             <div class="ck_offer_icon_wrapper"> <i class="flaticon-cupcake"></i>
@@ -92,7 +92,7 @@
                             <div class="ck_offer_icon_cont_wrapper">
                                 <h3>El ambiente que mereces</h3>
                                 <p>
-                                    Sumérgete en un ambiente excepcional, donde cada detalle está diseñado para
+                                    Donde cada detalle está diseñado para
                                     ofrecerte la experiencia que mereces.
                                 </p>
                             </div>
@@ -102,8 +102,8 @@
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 align-self-center">
-                    <div class="ck_special_img_wrapper float_left">
-                        <img src="images/ice3.png" alt="img" class="animate" data-animate="fadeInUp">
+                    <div class="ck_special_img_wrapper" style="text-align: center;">
+                        <img style="width: 15rem;" src="images/03.jpg" alt="img" class="animate" data-animate="fadeInUp">
                     </div>
                 </div>
             </div>
@@ -124,42 +124,42 @@
                         <div class="owl-carousel owl-theme">
                             <div class="item">
                                 <div class="ck_gallery_box_main_wrapper float_left">
-                                    <img src="images/g1.jpg" alt="img">
-                                    <div class="overlay"></div>
+                                    <img src="images/09.jpg" alt="img">
+                                    <!-- <div class="overlay"></div>
                                     <div class="ck_gallery_cont_wrapper float_left">
                                         <h3>Cherry Vanilla</h3>
                                         <a href="#"><i class="flaticon-right-arrow"></i></a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="ck_gallery_box_main_wrapper float_left">
-                                    <img src="images/g2.jpg" alt="img">
-                                    <div class="overlay"></div>
+                                    <img src="images/08.jpg" alt="img">
+                                    <!-- <div class="overlay"></div>
                                     <div class="ck_gallery_cont_wrapper float_left">
                                         <h3>Cherry Vanilla</h3>
                                         <a href="#"><i class="flaticon-right-arrow"></i></a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="ck_gallery_box_main_wrapper float_left">
-                                    <img src="images/g3.jpg" alt="img">
-                                    <div class="overlay"></div>
+                                    <img src="images/07.jpg" alt="img">
+                                    <!-- <div class="overlay"></div>
                                     <div class="ck_gallery_cont_wrapper float_left">
                                         <h3>Cherry Vanilla</h3>
                                         <a href="#"><i class="flaticon-right-arrow"></i></a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="ck_gallery_box_main_wrapper float_left">
-                                    <img src="images/g1.jpg" alt="img">
-                                    <div class="overlay"></div>
+                                    <img src="images/06.jpg" alt="img">
+                                    <!-- <div class="overlay"></div>
                                     <div class="ck_gallery_cont_wrapper float_left">
                                         <h3>Cherry Vanilla</h3>
                                         <a href="#"><i class="flaticon-right-arrow"></i></a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -179,7 +179,7 @@
                             <div class="ck_offer_img_cont_wrapper float_left animate" data-animate="fadeInUp">
                                 <div class="ck_heading_wrapper ck_heading_center_wrapper float_left">
                                     <h4>¿Por qué elegirnos?</h4>
-                                    <h2 style="color: #fff;">Azúcar - Café y Churros</h2>
+                                    <h2 style="color: #fff;">Azúcar - Café & Churros</h2>
                                 </div>
                             </div>
                         </div>
@@ -262,7 +262,7 @@
                                                     incidunt, culpa fuga ab, deleniti reiciendis facilis sed aut sequi.
                                                     Ipsum, aspernatur.
                                                 </p>
-                                                <img src="images/testi_sig.png" alt="img">
+                                                <!-- <img src="images/testi_sig.png" alt="img"> -->
                                                 <div class="ck_testi_title_line">
                                                     <img src="images/quote.png" alt="img">
                                                 </div>
@@ -282,7 +282,7 @@
                                                     incidunt, culpa fuga ab, deleniti reiciendis facilis sed aut sequi.
                                                     Ipsum, aspernatur.
                                                 </p>
-                                                <img src="images/testi_sig.png" alt="img">
+                                                <!-- <img src="images/testi_sig.png" alt="img"> -->
                                                 <div class="ck_testi_title_line">
                                                     <img src="images/quote.png" alt="img">
                                                 </div>
@@ -302,7 +302,7 @@
                                                     incidunt, culpa fuga ab, deleniti reiciendis facilis sed aut sequi.
                                                     Ipsum, aspernatur.
                                                 </p>
-                                                <img src="images/testi_sig.png" alt="img">
+                                                <!-- <img src="images/testi_sig.png" alt="img"> -->
                                                 <div class="ck_testi_title_line">
                                                     <img src="images/quote.png" alt="img">
                                                 </div>
@@ -355,7 +355,7 @@
                         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 animate" data-animate="fadeInUp">
                             <div class="contact_details_wrapper">
                                 <div class="ck_contac_img_wrapper">
-                                    <img src="images/e1.png" alt="img">
+                                    <img src="images/10.jpg" alt="img">
                                 </div>
                                 <div class="contact_details_content">
                                     <div class="contact_heading"> <span>Dirección:</span>
